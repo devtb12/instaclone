@@ -19,7 +19,7 @@ height: 100%;
     width: 100%;
     height: 100%;
     justify-content: center;
-    /* another wow moment thx devmountain! */
+        /* another wow moment thx devmountain! */
     }
 
 .insta_box {
@@ -48,13 +48,13 @@ font-size: 14px;
 
 .styleinput {
     padding-left: 10px;
+    margin: 3px;
     width: 250px;
-    height: 20px;
+    height: 30px;
     border: rgb(231, 231, 231) solid 1px;
     background: #fafafa;
-    font-size: 11px;
+    font-size: 13px;
     font-weight: 400;
-    color: darkgray;
     line-height: 18px;
     text-align: start;
     letter-spacing: normal;
@@ -86,6 +86,7 @@ font-size: 14px;
     height: -1px;
     border: 1px #efefef solid;
     display:inline-block;
+    margin: 7px;
 }
 
 
