@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Instaclone</title>
+    <link rel="stylesheet" type="text/css" href="./index.css">
+</head>
+
+<body>
+    <main class="grandparent">
+        <ul class="parent">
+            <div>
+                <img src="phoneleft.png" width="375px">
+            </div>
+            <div>
+
+                <ul class="insta_box">
+                    <li><img src="./logo.png" width="150px"></li>
+                    <li class="signfonttop">Sign up to photos and videos<br> from your friends.<br><br></li>
+                    <li class="bluebox">Log in with Facebook</li>
+                    <li>
+
+
+                        <div>
+                            <div class="split1"></div>
+                            <font class="fontor">OR</font>
+                            <div class="split2"></div>
+                        </div>
+
+
+                    </li>
+                    <li><input type=" text" class="styleinput" value="Mobile Number or Email">
+                    </li>
+                    <li><input type="text" class="styleinput" value="Full Name"></li>
+                    <li><input type="text" class="styleinput" value="Username"></li>
+                    <li><input type="text" class="styleinput" value="Password"></li>
+                    <li class="bluebox">Sign up</li>
+                    <li class="signfont"><br>By signing up, you agree to<br>our Terms , Data Policy and Cookies<br>
+                        Policy .<br></li>
+
+                </ul>
+                <br>
+                <li class="insta_bot_login"> Have an account? log in</li>
+                <br>
+                <ul class="insta_downapp">
+                    <li>Get the app.<br><br></li>
+                    <li><img src="dl1.png" width="35%" height="45%">
+                        <img src="dl2.png" width="35%" height="45%">
+                    </li>
+                </ul>
+            </div>
+        </ul>
+        <li>
+            <font class="bottomtext">about us &nbsp support &nbsp
+                press &nbsp api &nbsp jobs &nbsp privacy &nbsp
+                terms &nbsp directory &nbsp profiles &nbsp hashtags &nbsp language</font>
+        </li>
+
+
+
+
+
+
+    </main>
+
+</body>
+
+</html>
